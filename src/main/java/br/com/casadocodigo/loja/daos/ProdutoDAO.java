@@ -1,4 +1,4 @@
-package br.com.casadocodigo.loja.br.com.casadocodigo.loja.daos;
+package br.com.casadocodigo.loja.daos;
 
 import br.com.casadocodigo.loja.models.Produto;
 import org.springframework.stereotype.Repository;
